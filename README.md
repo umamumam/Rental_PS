@@ -38,19 +38,19 @@ database: MySql
 `git clone https://github.com/umamumam/Rental_PS.git`
 
 Masuk Direktori Projek:
-`cd Rental_PS`
-`composer install`
-`npm install`
-`npm run dev`
-`cp .env.example .env` dan sesuaikan juga untuk API Midtrans
+`cd Rental_PS` <br>
+`composer install` <br>
+`npm install` <br>
+`npm run dev` <br>
+`cp .env.example .env` dan sesuaikan juga untuk API Midtrans <br>
 `php artisan key:generate`
 
-Sesuaikan Database. Lalu migrate:
+Sesuaikan Database. Lalu migrate:<br>
 `php artisan migrate --seed`
 
-Setelah itu jalankan
+Setelah itu jalankan<br>
 `php artisan serve`
-
+<hr>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
