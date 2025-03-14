@@ -1,3 +1,57 @@
+## Landing Page
+![image](https://github.com/user-attachments/assets/a47c1dda-9524-4cae-86d5-6dd8d41e2851)
+![image](https://github.com/user-attachments/assets/244895cb-008d-4a5e-a272-a45ec78a5527)
+![image](https://github.com/user-attachments/assets/6273c269-08da-47cc-ae1c-984a94cd43cd)
+![image](https://github.com/user-attachments/assets/b94a430e-b80a-4eca-98b6-8635fc5169b3)
+![image](https://github.com/user-attachments/assets/ee280bee-f5c8-49f5-ba80-2a94ee1b2bae)
+
+## Fitur Booking & Pembayaran
+![image](https://github.com/user-attachments/assets/a73fdceb-ed12-4b57-baa9-24711e21c565)
+![image](https://github.com/user-attachments/assets/bfa301ab-17f8-4c9c-ae7d-f314de8ac0d7)
+![image](https://github.com/user-attachments/assets/107ec118-354e-4f66-b511-11756d50a191)
+![image](https://github.com/user-attachments/assets/83a775c3-37a2-43ab-b7e6-bef046228dd0)
+
+## Konfirmasi Pembayaran Berhasil
+![image](https://github.com/user-attachments/assets/8a2fda64-881b-4141-b426-baa80e336a12)
+![image](https://github.com/user-attachments/assets/ce4133df-928b-4788-82bb-6e728ee0f1bd)
+
+## Login dan Register
+![image](https://github.com/user-attachments/assets/c518d827-bd17-42e0-9417-c92463d2ee11)
+![image](https://github.com/user-attachments/assets/ae06ba12-bb89-43a9-8b28-522fb0f4d636)
+
+## Dashboard Admin
+![image](https://github.com/user-attachments/assets/e0285602-2d69-43d2-89c8-6cc9a50f9615)
+![image](https://github.com/user-attachments/assets/6e4af395-03bb-4117-882b-c09ea1db3e7d)
+
+## Fitur CRUD Layanan & Game
+![image](https://github.com/user-attachments/assets/c42a5d6b-1bfa-4591-814e-d9c6269b19fa)
+![image](https://github.com/user-attachments/assets/66095fc0-34f6-4da8-874f-02f50ec88cc9)
+![image](https://github.com/user-attachments/assets/436c6692-0992-497a-8332-c1f85ec0a47d)
+![image](https://github.com/user-attachments/assets/17459f3b-e5c7-48ab-9bba-fe2bec395056)
+
+## Tetang Projek
+Projek ini dikembangkan dengan Laravel 12
+dengan ketentuan : PHP 8.2 - 8.4
+database: MySql
+
+## Installasi
+`git clone https://github.com/umamumam/Rental_PS.git`
+
+Masuk Direktori Projek:
+`cd Rental_PS`
+`composer install`
+`npm install`
+`npm run dev`
+`cp .env.example .env` dan sesuaikan juga untuk API Midtrans
+`php artisan key:generate`
+
+Sesuaikan Database. Lalu migrate:
+`php artisan migrate --seed`
+
+Setelah itu jalankan
+`php artisan serve`
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
